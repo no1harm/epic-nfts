@@ -20,3 +20,6 @@ yarn.lock
 *.sw?
 *.lock
 .mocks/
+artifacts
+cache
+

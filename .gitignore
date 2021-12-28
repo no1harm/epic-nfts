@@ -22,4 +22,5 @@ yarn.lock
 .mocks/
 artifacts
 cache
+hardhat.config.js
 
